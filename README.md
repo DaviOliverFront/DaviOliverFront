@@ -47,3 +47,4 @@ I'm an Information Systems graduate (Uninassau, 2021–2025), currently pursuing
 ## 📫 Let's Connect!?
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6e7c56?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-oliveira-089a4321a/)
+[![Email](https://img.shields.io/badge/Email-6e7c56?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
