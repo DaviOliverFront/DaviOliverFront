@@ -1,4 +1,6 @@
-## Davi Oliveira Sousa 👋
+## Hi, i'm Davi 👋
+
+### Front-end developer in progress, learning back-end.
 
 <!--
 **DaviOliverFront/DaviOliverFront** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
