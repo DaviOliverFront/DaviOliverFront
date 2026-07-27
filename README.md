@@ -42,4 +42,8 @@ I'm an Information Systems graduate (Uninassau, 2021–2025), currently pursuing
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
  
----
+--- 
+
+## 📫 Let's Connect!?
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6e7c56?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-oliveira-089a4321a/)
