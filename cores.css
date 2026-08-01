@@ -1,0 +1,57 @@
+:root {
+  --cor-primaria-escura: #000A28;
+  --cor-primaria: #011142;
+  --cor-primaria-media: #152A5C;
+  --cor-primaria-clara: #3C4E7D;
+  --cor-primaria-suave: #8D96B8;
+
+  --cor-fundo: #F5F6FA;
+  --cor-branco: #FFFFFF;
+  --cor-texto: #1C1E26;
+  --cor-cinza: #6B7280;
+
+  --cor-destaque: #E8A33D;
+}
+
+/* Backgrounds */
+.bg-primaria-escura { background-color: var(--cor-primaria-escura) !important; }
+.bg-primaria { background-color: var(--cor-primaria) !important; }
+.bg-primaria-media { background-color: var(--cor-primaria-media) !important; }
+.bg-primaria-clara { background-color: var(--cor-primaria-clara) !important; }
+.bg-primaria-suave { background-color: var(--cor-primaria-suave) !important; }
+.bg-fundo { background-color: var(--cor-fundo) !important; }
+.bg-destaque { background-color: var(--cor-destaque) !important; }
+
+/* Textos */
+.text-primaria-escura { color: var(--cor-primaria-escura) !important; }
+.text-primaria { color: var(--cor-primaria) !important; }
+.text-primaria-media { color: var(--cor-primaria-media) !important; }
+.text-primaria-clara { color: var(--cor-primaria-clara) !important; }
+.text-primaria-suave { color: var(--cor-primaria-suave) !important; }
+.text-texto { color: var(--cor-texto) !important; }
+.text-cinza { color: var(--cor-cinza) !important; }
+.text-destaque { color: var(--cor-destaque) !important; }
+
+/* Bordas */
+.border-primaria { border-color: var(--cor-primaria) !important; }
+.border-primaria-media { border-color: var(--cor-primaria-media) !important; }
+.border-destaque { border-color: var(--cor-destaque) !important; }
+
+/* Botões (seguindo o padrão de variáveis locais do Bootstrap 5) */
+.btn-primaria {
+  --bs-btn-color: var(--cor-branco);
+  --bs-btn-bg: var(--cor-primaria);
+  --bs-btn-border-color: var(--cor-primaria);
+  --bs-btn-hover-bg: var(--cor-primaria-escura);
+  --bs-btn-hover-border-color: var(--cor-primaria-escura);
+  --bs-btn-active-bg: var(--cor-primaria-escura);
+  --bs-btn-active-border-color: var(--cor-primaria-escura);
+}
+
+.btn-destaque {
+  --bs-btn-color: var(--cor-primaria-escura);
+  --bs-btn-bg: var(--cor-destaque);
+  --bs-btn-border-color: var(--cor-destaque);
+  --bs-btn-hover-bg: #cf8a2c;
+  --bs-btn-hover-border-color: #cf8a2c;
+}
