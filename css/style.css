@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+/* Link da importação da font */
+body{
+    font-family: "Outfit", sans-serif;
+}
+
+/* Hover do link-nav e o botão do header */
+.link-nav, .btn-destaque:hover{
+    transition: transform 0.3s ease;
+    display: inline-block;
+}
+
+.link-nav:hover, .btn-destaque:hover{
+    background-color: var(--cor-destaque) !important;
+    transform: scale(1.05);
+    color: var(--cor-primaria) !important;
+    border-radius: 5px;
+}
